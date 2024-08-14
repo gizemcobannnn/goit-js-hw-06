@@ -1,3 +1,4 @@
+console.log("task-2");
 class Storage{
     #items
     constructor(items){
